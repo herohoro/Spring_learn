@@ -1,0 +1,19 @@
+.footer {
+  margin: 40px 0 10px;
+  text-align: center;
+  font-size: 1rem;
+  background-color: var(--bg-cleanness);
+}
+.footer span {
+  color: var(--fg-cleanness);
+}
+.powered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1;
+}
+.titleLogo {
+  height: 3em;
+  margin-left: 0.5rem;
+}
